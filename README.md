@@ -17,4 +17,4 @@ Software Tester ที่มุ่งเน้นการพัฒนาคุ�
 📫 **Contact & Portfolio:**
 - **Email:** saowaluckboonrod@gmail.com
 - **Web Profile:** [👉 คลิกเพื่อดูพอร์ตโฟลิโอของคุณ](https://saowaluck-profile.vercel.app/)
-- **LinkedIn:** [https://www.linkedin.com/in/saowaluck-boonrod-3a5ba830b/]
+- **LinkedIn:** [Saowaluck Boonrod](https://www.linkedin.com/in/saowaluck-boonrod-3a5ba830b/)
