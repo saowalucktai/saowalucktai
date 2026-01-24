@@ -9,9 +9,9 @@ Software Tester ที่มุ่งเน้นการพัฒนาคุ�
 - **Specialized Skills:** Unit Testing with **94.9% Code Coverage**
 
 ### 📊 Highlight Projects
-- **[Playwright Web E2E](https://github.com/saowalucktai/Web-Automation-Testing-with-Playwright):** ระบบเทสเว็บแบบ Cross-browser ด้วย TypeScript.
-- **[Java Quality Testing](https://github.com/saowalucktai/Automated-API-Validation-Framework-Katalon-Studio):** โปรเจค Unit Test ที่ผ่านการทดสอบ 113 รายการอย่างสมบูรณ์.
-- **[Selenium Python Flow](https://github.com/saowalucktai/Selenium-Web-Automation-Testing-Python-):** ระบบ Automation สำหรับการเทส Login และ Accessibility.
+- **[Playwright Web E2E](https://github.com/saowalucktai/Web-Automation-Testing-with-Playwright):** ระบบ Automation Testing แบบ Cross-browser ด้วย TypeScript พร้อมการรันผ่าน CI/CD และสรุปผลด้วย HTML Report
+- **[Java Unit Testing & Code Coverage](https://github.com/saowalucktai/Automated-Unit-Testing-Code-Coverage-Analysis):** การทดสอบ Unit Test กว่า 113 รายการด้วย JUnit 5 พร้อมการวิเคราะห์ความครอบคลุมของโค้ด (Code Coverage) ด้วย JaCoCo
+- **[Selenium Python Flow](https://github.com/saowalucktai/Selenium-Web-Automation-Testing-Python-):** ระบบ Automation สำหรับการทดสอบ Web UI ครอบคลุมส่วน Login Flow และการตรวจสอบ Accessibility เบื้องต้น
   
 ---
 📫 **Contact & Portfolio:**
